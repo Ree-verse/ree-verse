@@ -26,7 +26,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,arduino,bash,bots,cloudflare,css,django,docker,fastapi,flask,git,githubactions,go,html,js,latex,linux,lua,md,neovim,nginx,obsidian,py,qt,raspberrypi,regex,rust,sqlite,sketchup,svg,ts,vscodium,windows" />
+    <img src="https://skillicons.dev/icons?i=arch,arduino,bash,bots,cloudflare,css,docker,fastapi,git,githubactions,go,html,js,latex,linux,lua,md,neovim,nginx,obsidian,py,qt,raspberrypi,regex,rust,sqlite,sketchup,svg,ts,vscodium,windows" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@
   <summary><i>Connect with me</i></summary><br/>
 
 - *Discord* > [ree_verse](https://discord.com/users/1278402883468922881) (also available on [Ree-verse GitHub Support](https://discord.gg/ZZfqH9Z4uQ))
-- *Reddit* > [ree-verse](https://www.reddit.com/user/Ree-verse/) (banned account :/)
+- *Reddit* > [R_e_v_e_r_s_e](https://www.reddit.com/user/R_e_v_e_r_s_e/)
 - *Matrix* > @reeverse:matrix.org
 - *PyPi* > [reverse](https://pypi.org/user/Reverse)
 - *Crates.io* > [ree-verse](https://crates.io/users/ree-verse)
