@@ -15,6 +15,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1000&pause=150&color=20C20E&repeat=false&width=435&lines=I+am+working+on+a+lot+of+projects.;I+like+programming%2C+cybersecurity...;...math%2C+physics%2C+chemistry...;...and+biology.;Python%2C+Rust%2C+Go+%26+Web+developer.)](https://git.io/typing-svg)
 
+> [!IMPORTANT]
+I don't really work on my personal projects anymore; instead, I devote most of my development time to competitive programming.
+
 # Statistics
 
 ![](https://raw.githubusercontent.com/ree-verse/github-stats/master/generated/overview.svg#gh-dark-mode-only)
@@ -26,13 +29,13 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,arduino,bash,bots,cloudflare,css,docker,fastapi,git,githubactions,go,html,js,latex,linux,lua,md,neovim,nginx,obsidian,py,qt,raspberrypi,regex,rust,sqlite,sketchup,svg,ts,vscodium,windows" />
+    <img src="https://skillicons.dev/icons?i=arch,arduino,bash,bots,cloudflare,css,docker,fastapi,git,githubactions,go,html,js,latex,linux,lua,md,neovim,nginx,obsidian,py,qt,raspberrypi,regex,rust,sqlite,sketchup,svg,vscodium,windows" />
   </a>
 </p>
 
 # Projects
 
-- [ReWare](https://github.com/ree-verse/ReWare) - Simple Remote Desktop Controller, built with Python
+- [ReCord](https://github.com/ree-verse/ReCord) - Discord automation tool designed for AI-powered auto-replies and highly configurable message behavior
 - [masked-input](https://github.com/Ree-verse/masked-input) - Cross-Platform Password Input with Various Masking Options
 - [ReXOR](https://github.com/Ree-verse/ReXOR) - Cross-platform Rust library with CLI app implementing XOR encryption/decryption 
 - [dotfiles](https://github.com/Ree-verse/dotfiles) - My personal configuration files for my Arch setup 
@@ -55,4 +58,3 @@
 - *Email* > [reeversesoft@gmail.com](mailto:reeversesoft@gmail.com)
 - *Website* > [ree-verse.github.io](https://ree-verse.github.io)
 </details>
-
